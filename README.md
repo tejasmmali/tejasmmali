@@ -1,7 +1,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
   Hi, I'm Tejas Mali
-  <a href="https://www.buymeacoffee.com/tejazmali" target="_blank">
+  <a href="https://www.buymeacoffee.com/tejasmmali" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" style="vertical-align: middle; margin-left: 10px;" />
   </a>
 </h1>
@@ -76,7 +76,7 @@ Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I
 
 If you enjoy my work or find my projects helpful, consider supporting me:
 
-<a href="https://www.buymeacoffee.com/tejazmali" target="_blank">
+<a href="https://www.buymeacoffee.com/tejasmmali" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;">
 </a>
 
