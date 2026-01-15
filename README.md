@@ -57,14 +57,14 @@ Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I
 ---
 
 ## 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=tejazmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejazmali&theme=github_dark_dimmed&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejazmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=tejasmmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tejasmmali&theme=github_dark_dimmed&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
 ## 🐍 **GitHub Contribution Snake**  
-![snake gif](https://github.com/tejazmali/tejazmali/blob/output/github-snake-dark.svg)  
+![snake gif](https://github.com/tejasmmali/tejasmmali/blob/output/github-snake-dark.svg)  
 
 ---
 
