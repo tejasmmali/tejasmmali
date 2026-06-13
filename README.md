@@ -83,3 +83,11 @@ If you enjoy my work or find my projects helpful, consider supporting me:
 > ☕ Every little bit helps me keep building cool projects and open-source tools. Thanks for your support! 🙌
 
 ---
+## Hackatime 
+<a href="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FKolkata&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FKolkata&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FKolkata&theme=light">
+    </picture>
+</a>
+
