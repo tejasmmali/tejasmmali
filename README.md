@@ -1,9 +1,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
   Hi, I'm Tejas Mali
-  <a href="https://www.buymeacoffee.com/tejasmmali" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" style="vertical-align: middle; margin-left: 10px;" />
-  </a>
+  
 </h1>
 
 ### 🤖 Automation and Robotics Student | 🌐 Passionate Web Developer
@@ -67,6 +65,13 @@ Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I
 ![snake gif](https://github.com/tejasmmali/tejasmmali/blob/output/github-snake-dark.svg)  
 
 ---
+## Hackatime Activity 
+<a href="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FCalcutta&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FCalcutta&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FCalcutta&labels=true&theme=light">
+    </picture>
+</a>
 
 ![Profile Views](https://u8views.com/api/v1/github/profiles/175258450/views/total-count.svg)  
 
@@ -83,11 +88,3 @@ If you enjoy my work or find my projects helpful, consider supporting me:
 > ☕ Every little bit helps me keep building cool projects and open-source tools. Thanks for your support! 🙌
 
 ---
-## Hackatime 
-<a href="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FKolkata&standalone=true" title="Click to view detailed data for each day!">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FKolkata&theme=dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=24941&timezone=Asia%2FKolkata&theme=light">
-    </picture>
-</a>
-
